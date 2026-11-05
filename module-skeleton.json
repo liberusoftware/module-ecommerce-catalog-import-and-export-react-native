@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-import-and-export-react-native",
+  "capabilityKey": "planned:ecommerce:catalog-import-and-export",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-catalog-import-and-export-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog-import-and-export.md",
+  "presentationPlan": "projects/ecommerce/react-native/catalog-import-and-export.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}

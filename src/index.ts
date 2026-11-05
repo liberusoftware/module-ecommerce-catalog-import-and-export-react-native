@@ -1,2 +1,8 @@
-/** Registration metadata for this skeleton; not a domain or API schema. */
-export const moduleDefinition = {id: 'module-boilerplate-react-native', presentation: 'mobile-react', status: 'skeleton'} as const;
+/** Skeleton registration metadata; this is not a domain/API contract. */
+export const moduleDefinition = {
+  "id": "module-ecommerce-catalog-import-and-export-react-native",
+  "presentation": "mobile-react",
+  "capabilityKey": "planned:ecommerce:catalog-import-and-export",
+  "status": "skeleton",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/ecommerce/react-native/catalog-import-and-export.md"
+} as const;
